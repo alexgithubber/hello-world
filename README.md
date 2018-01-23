@@ -1,2 +1,3 @@
 # hello-world
-A simple hello world (empty) repository
+
+A simple empty repository, just for github learning purposes.
